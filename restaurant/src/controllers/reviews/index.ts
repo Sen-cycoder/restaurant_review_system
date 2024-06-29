@@ -1,1 +1,0 @@
-export { getAllReviews } from './getAllReviews';
